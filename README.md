@@ -1,4 +1,4 @@
-Process of the Project
+##Process of the Project
 Step 1: Data Collection
 Imported a dataset of 1,026 records containing demographic, financial, and lifestyle details of potential bike buyers.
 Step 2: Data Cleaning & Preprocessing
