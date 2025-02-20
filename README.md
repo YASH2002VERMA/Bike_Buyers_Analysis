@@ -1,4 +1,5 @@
 #Bike Buyer Data Analysis
+
 ##Project Overview
 This project analyzes a dataset of potential bike buyers to uncover key purchasing trends. The analysis focuses on factors such as income, age, gender, occupation, commute distance, and other demographic details.
 
